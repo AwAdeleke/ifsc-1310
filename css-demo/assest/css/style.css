@@ -7,7 +7,7 @@
 #D92525 -Deepest 
 
 */
-header#myfirst.subheader{
+section#intro.container h2 {
     color: #D92525;
  }
   header {
