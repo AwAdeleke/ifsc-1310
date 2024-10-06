@@ -1,0 +1,37 @@
+/* CSS Demo stylesheet 
+
+#F2C572 -lightest
+#D98C4A
+#591C0E -Background color
+#A61B1B
+#D92525 -Deepest 
+
+*/
+header#myfirst.subheader{
+    color: #D92525;
+ }
+  header {
+    color: #D92525;
+  }
+  figcaption {
+    color: #A61B1B;
+  }
+  footer{
+    color:#A61B1B;
+  }
+  body{
+    background-color:#F2C572;
+    color:#591C0E;
+  }
+/*  ---------------Box Sizing-----------------  */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  /*  ---------------Box Sizing-----------------  */  
